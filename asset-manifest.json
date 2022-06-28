@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rahulcalc.gitio/static/css/main.3ff94ff9.css",
+    "main.js": "/rahulcalc.gitio/static/js/main.792439a7.js",
+    "index.html": "/rahulcalc.gitio/index.html",
+    "main.3ff94ff9.css.map": "/rahulcalc.gitio/static/css/main.3ff94ff9.css.map",
+    "main.792439a7.js.map": "/rahulcalc.gitio/static/js/main.792439a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff94ff9.css",
+    "static/js/main.792439a7.js"
+  ]
+}
